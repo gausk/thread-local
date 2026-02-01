@@ -1,3 +1,4 @@
+mod thread_local;
 mod thread_local_simple;
 
 use std::cell::RefCell;
